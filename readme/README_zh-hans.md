@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/logo.png" alt="LMFlow" style="width: 100%; min-width: 300px; display: block; margin: auto; background-color: transparent;">
+<img src="../assets/logo.png" alt="LMFlow" style="width: 100%; min-width: 300px; display: block; margin: auto; background-color: transparent;">
 </p>
 
 # LMFlow
@@ -28,7 +28,7 @@
 
 
 <p align="center" width="100%">
-<img src="assets/features.png" alt="LMFlow-features" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+<img src="../assets/features.png" alt="LMFlow-features" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 
@@ -62,7 +62,7 @@
 
 ### Colab chatbot(shell)
 <p align="center" width="100%">
-<img src="assets/colab-shell-chatbot-demo.png">
+<img src="../assets/colab-shell-chatbot-demo.png">
 </p>
 
 
@@ -134,6 +134,10 @@ LLaMA 33B（LoRA）的性能仅经过约16小时的微调，即可在PubMedQA和
 
 
 ## 1.Setup
+
+我们的软件包已经在Linux操作系统（Ubuntu 20.04）上进行了全面测试。其他操作系统平台（MacOS、Windows）尚未进行全面测试。
+您可能会遇到一些意料之外的错误。建议您先在Linux机器上尝试，或者使用Google Colab进行体验。
+
 ```bash
 git clone https://github.com/OptimalScale/LMFlow.git
 cd LMFlow

@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/logo.png" alt="LMFlow" style="width: 100%; min-width: 300px; display: block; margin: auto; background-color: transparent;">
+<img src="../assets/logo.png" alt="LMFlow" style="width: 100%; min-width: 300px; display: block; margin: auto; background-color: transparent;">
 </p>
 
 # LMFlow
@@ -29,7 +29,7 @@
 लार्ज लैंग्वेज मॉडल फॉर ऑल। हमारी [दृष्टि](https://github.com/OptimalScale/LMFlow#vision) देखें।
 
 <p align="center" width="100%">
-<img src="assets/features.png" alt="LMFlow-features" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+<img src="../assets/features.png" alt="LMFlow-features" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 
@@ -64,7 +64,7 @@
 
 ### Colab chatbot(shell)
 <p align="center" width="100%">
-<img src="assets/colab-shell-chatbot-demo.png">
+<img src="../assets/colab-shell-chatbot-demo.png">
 </p>
 
 हम Google Colab के T4/P100/V100 GPU के साथ चैटबॉट का एक सरल शैली डेमो प्रदान करते हैं।
@@ -140,6 +140,7 @@ LLaMA, GPT2, GPT-Neo, Galactica, को पूरी तरह से टेस�
 ## 1.Setup
 
 हमारी पैकेजिंग लिनक्स ओएस (उबंटू 20.04) पर पूरी तरह से टेस्ट की गई है। अन्य ओएस प्लेटफॉर्म (MacOS, Windows) पूरी तरह से टेस्ट नहीं किए गए हैं।
+आप कुछ अप्रत्याशित त्रुटियों से मिल सकते हैं. आप इसे पहले लिनक्स मशीन पर कोशिश कर सकते हैं या इसे अनुभव करने के लिए गूगल कोलेब इस्तेमाल कर सकते हैं.
 
 ```bash
 git clone https://github.com/OptimalScale/LMFlow.git
